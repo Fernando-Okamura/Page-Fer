@@ -5,6 +5,11 @@
     flex-direction: column;
     background-color: #9d9c9e;
 
+    img{
+        align-items: left;
+        
+    }
+
        
 span{
     font-size: 25px;
@@ -25,6 +30,7 @@ h1{
     margin-left:36px;
     
     }
+    
 
 
    }
@@ -97,4 +103,10 @@ h3{
     margin-top: 5px;
     padding-top: 5px;
     background-color: #9d9c9e;
+}
+.borda{
+    border:5px solid black;
+}
+.borda2{
+    outline:5px solid black;
 }
